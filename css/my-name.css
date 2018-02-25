@@ -1,0 +1,16 @@
+.my-span{
+	background-color: blue;
+	font-size: 50px;
+	margin-left: 50px;
+	margin-top: 100px;
+	border: 5px solid red;
+	color: magenta;
+}
+body
+{
+	background-color: black;
+}
+.person-name{
+	background-color: orange;
+	
+}
